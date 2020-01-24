@@ -1,0 +1,16 @@
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Yahoo.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Yahoo.pdb
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\WebDriver.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\bin\Debug\WebDriver.xml
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\obj\Debug\Yahoo.csprojAssemblyReference.cache
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\obj\Debug\Yahoo.csproj.CoreCompileInputs.cache
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\obj\Debug\Yahoo.csproj.CopyComplete
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\obj\Debug\Yahoo.dll
+C:\Users\sathyanarayana\source\repos\Yahoo\Yahoo\obj\Debug\Yahoo.pdb
